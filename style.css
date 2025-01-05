@@ -1,0 +1,21 @@
+html{
+    background-image: url('background.webp');
+    box-sizing: border-box;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+*{
+    box-sizing: inherit;
+    font-family: 'Raleway', sans-serif;
+}
+body{
+    background: rgba(255,255,255,0.74);
+    width: 90%;
+    max-width: 800px;
+    margin: 50px auto;
+    font-family: 'raleway';
+    padding: 20px;
+    border-radius: 10px;
+}
